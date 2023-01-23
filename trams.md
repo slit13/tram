@@ -20,3 +20,16 @@
   - front, back = 2
   - middle = 0
 - 100% low-floor
+
+## Letca
+- size
+  - length 10 m
+  - width  2.5 m
+- 14 seats
+- ~45 max capacity
+  - 14 seated
+  - ~31 standing
+- 2 bogies
+- 1 wagon
+- 3 doors
+- 100% high-floor
